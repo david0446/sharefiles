@@ -22,14 +22,14 @@
                    <key>url</key>
                    <string>https://www.mustfresh.cn:8443/qp_download/img/Icon-57.png</string>
                </dict>
-               <!-- ø…—°œÓ£¨full-size-image:(512x512)‘⁄iTunes π”√µƒÕº±Í.-->
+               <!-- ÂèØÈÄâÈ°πÔºåfull-size-image:(512x512)Âú®iTunes‰ΩøÁî®ÁöÑÂõæÊ†á.-->
                <dict>
                    <key>kind</key>
                    <string>full-size-image</string>
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-		   			<string>https://www.mustfresh.cn:8443/qp_download/img/Icon-57.png</string>
+		   <string>https://www.mustfresh.cn:8443/qp_download/img/Icon-57.png</string>
                </dict>
            </array>   
            <key>metadata</key>   
@@ -41,9 +41,9 @@
                <key>kind</key>   
                <string>software</string>   
                <key>subtitle</key>   
-               <string>±æµÿ∆Â≈∆∆ΩÃ®</string>   
+               <string>Êú¨Âú∞Ê£ãÁâåÂπ≥Âè∞</string>   
                <key>title</key>   
-               <string>¿•…Ω∆Â≈∆</string>   
+               <string>ÊòÜÂ±±Ê£ãÁâå</string>   
            </dict>   
        </dict>   
    </array>   
