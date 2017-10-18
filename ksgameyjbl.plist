@@ -11,7 +11,7 @@
                    <key>kind</key>   
                    <string>software-package</string>   
                    <key>url</key>   
-                   <string>https://www.mustfresh.cn:8443/qp_download/download/yjblios/ksGameyjbl.ipa</string>   
+                   <string>https://www.fingersgame.com:8443/qp_download/download/yjblios/ksGameyjbl.ipa</string>   
                </dict>
                <dict>
                    <key>kind</key>
@@ -20,7 +20,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://www.mustfresh.cn:8443/qp_download/img/Icon-57.png</string>
+                   <string>https://www.fingersgame.com:8443/qp_download/img/Icon-57.png</string>
                </dict>
                <!-- 可选项，full-size-image:(512x512)在iTunes使用的图标.-->
                <dict>
@@ -29,7 +29,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-		   			<string>https://www.mustfresh.cn:8443/qp_download/img/Icon-57.png</string>
+		   			<string>https://www.fingersgame.com:8443/qp_download/img/Icon-57.png</string>
                </dict>
            </array>   
            <key>metadata</key>   
@@ -37,7 +37,7 @@
                <key>bundle-identifier</key>   
                <string>com.zyj.qp.ddz</string>
                <key>bundle-version</key>   
-               <string>1.0.0</string>   
+               <string>1.0.5</string>   
                <key>kind</key>   
                <string>software</string>   
                <key>subtitle</key>   
