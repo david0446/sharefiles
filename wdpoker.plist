@@ -20,7 +20,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://47.104.16.135:8180/depu_download/img/Icon-57.png</string>
+                   <string>http://47.104.16.135:8180/depu_download/img/icon-57.png</string>
                </dict>
                <!-- 可选项，full-size-image:(512x512)在iTunes使用的图标.-->
                <dict>
@@ -29,7 +29,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-		   <string>http://47.104.16.135:8180/depu_download/img/Icon-57.png</string>
+		   <string>http://47.104.16.135:8180/depu_download/img/icon-57.png</string>
                </dict>
            </array>   
            <key>metadata</key>   
