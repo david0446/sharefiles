@@ -29,19 +29,19 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-		   			<string>http://47.104.16.135:8180/depu_download/img/Icon-57.png</string>
+		   <string>http://47.104.16.135:8180/depu_download/img/Icon-57.png</string>
                </dict>
            </array>   
            <key>metadata</key>   
            <dict>   
                <key>bundle-identifier</key>   
-               <string>com.zyj.qp.ddz</string>
+               <string>com.nanmang.depu</string>
                <key>bundle-version</key>   
                <string>1.0.0</string>   
                <key>kind</key>   
                <string>software</string>   
                <key>subtitle</key>   
-               <string>本地棋牌平台</string>   
+               <string>棋牌平台</string>   
                <key>title</key>   
                <string>豌豆扑克</string>   
            </dict>   
