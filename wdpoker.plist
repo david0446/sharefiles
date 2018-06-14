@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://47.104.16.135:8180/depu_download/img/icon-57.png</string>
+					<string>http://47.104.16.135:8180/depu_download/img/dpzx_icon_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://47.104.16.135:8180/depu_download/img/icon-57.png</string>
+					<string>http://47.104.16.135:8180/depu_download/img/dpzx_icon_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nanmang.depu</string>
+				<string>com.yxxs.depuonline</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>豌豆扑克</string>
+				<string>德扑在线</string>
 			</dict>
 		</dict>
 	</array>
